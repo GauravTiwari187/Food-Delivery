@@ -7,7 +7,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY)
 // placing user order for frontent
 const placeorder = async (req,res) =>{
 
-    const frontend_url = "http://localhost:5173"
+   const frontend_url = "https://food-delivery-two-black.vercel.app"
   
     try {
         const newOrder = new orderModel({
