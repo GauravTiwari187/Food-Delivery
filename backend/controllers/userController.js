@@ -30,8 +30,8 @@ res.json({success:true,token})
 }
 
 
-const createToken = (id)=> {
-    return jwt.sign({id},process.env.TWT_SECRET)
+const createToken = (id) => {
+    return jwt.sign({ id }, process.env.JWT_SECRET);
 }
 
 // register user
