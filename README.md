@@ -115,8 +115,38 @@ STRIPE_SECRET_KEY=
 
 ## 📷 Screenshots
 
-> Screenshots will be added soon.
+### 🏠 Home Page
+![Home](images/home.png)
 
+### 🍽️ Food Menu
+![Menu](images/menu.png)
+
+### 🍕 Dishes
+![Dishes](images/dishes.png)
+
+### 🛒 Shopping Cart
+![Cart](images/cart.png)
+
+### 📍 Delivery Information
+![Delivery](images/Delivery%20Information.png)
+
+### 💳 Stripe Payment
+![Payment](images/payment.png)
+
+### 📦 My Orders
+![My Orders](images/my%20order.png)
+
+### 📄 Order Page
+![Order Page](images/order%20page.png)
+
+### 🚚 Order Status
+![Order Status](images/order%20status.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](images/admin%20dashboard.png)
+
+### 📋 Manage Orders
+![Manage Orders](images/manage-order.png)
 ---
 
 ## 🌟 Future Improvements
