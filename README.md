@@ -1,5 +1,15 @@
 # 🍔 ZestyGo - Full Stack MERN Food Delivery Application
 
+## 🌐 Live Demo
+
+### 👤 User Website
+https://food-delivery-two-black.vercel.app
+
+### ⚙️ Backend API
+https://food-delivery-3cas.onrender.com
+
+---
+
 A modern **Full Stack MERN Food Delivery Web Application** that allows users to browse food items, manage their cart, place orders securely using Stripe Payment Gateway, and enables administrators to manage food items and customer orders through a dedicated admin dashboard.
 
 ---
@@ -59,7 +69,7 @@ Food-Delivery
 │
 ├── admin
 ├── backend
-└── frontend
+└── frontent
 ```
 
 ---
@@ -77,7 +87,7 @@ git clone https://github.com/GauravTiwari187/Food-Delivery.git
 #### Frontend
 
 ```bash
-cd frontend
+cd frontent
 npm install
 npm run dev
 ```
@@ -183,4 +193,4 @@ https://github.com/GauravTiwari187
 
 ## ⭐ If you like this project
 
-Give this repository a ⭐ on GitHub.
+If you found this project helpful, please give it a ⭐ on GitHub.
