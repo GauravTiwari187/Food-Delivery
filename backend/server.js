@@ -16,7 +16,11 @@ const port = process.env.PORT || 4000
 app.use(express.json())
 app.use(express.urlencoded({extended: true}))
 app.use(cors({
-  origin: "https://food-delivery-two-black.vercel.app",
+  origin: [
+    "https://food-delivery-two-black.vercel.app",
+    "https://food-delivery-7poa.vercel.app",
+    "http://localhost:5173"
+  ],
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type", "token"],
   credentials: true
