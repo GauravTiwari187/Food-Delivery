@@ -5,6 +5,9 @@
 ### 👤 User Website
 https://food-delivery-two-black.vercel.app
 
+### 🛠️ Admin Panel
+https://food-delivery-7poa.vercel.app
+
 ### ⚙️ Backend API
 https://food-delivery-3cas.onrender.com
 
